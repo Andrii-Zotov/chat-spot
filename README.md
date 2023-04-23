@@ -1,3 +1,3 @@
-ChatSpot projec
+ChatSpot project
 I hope it will work...
 
